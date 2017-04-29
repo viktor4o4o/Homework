@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Ununion Lists", "01. Distinct List\04. Ununion Lists.csproj", "{AB619DD8-55C4-42B5-B293-E06C60523BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Distinct List", "01 Distinct List\01. Distinct List.csproj", "{C7D849C1-5F90-4556-841B-4397C91C1815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Integer Insertion", "02. Integer Insertion\02. Integer Insertion.csproj", "{C6B3986C-95C7-41B1-AAD9-D3417F27AB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Camel's Back", "03. Camel's Back\03. Camel's Back.csproj", "{F3294F6A-0974-4B56-AF47-CD1219358692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB619DD8-55C4-42B5-B293-E06C60523BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB619DD8-55C4-42B5-B293-E06C60523BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB619DD8-55C4-42B5-B293-E06C60523BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB619DD8-55C4-42B5-B293-E06C60523BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D849C1-5F90-4556-841B-4397C91C1815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D849C1-5F90-4556-841B-4397C91C1815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D849C1-5F90-4556-841B-4397C91C1815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D849C1-5F90-4556-841B-4397C91C1815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B3986C-95C7-41B1-AAD9-D3417F27AB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B3986C-95C7-41B1-AAD9-D3417F27AB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B3986C-95C7-41B1-AAD9-D3417F27AB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B3986C-95C7-41B1-AAD9-D3417F27AB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3294F6A-0974-4B56-AF47-CD1219358692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3294F6A-0974-4B56-AF47-CD1219358692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3294F6A-0974-4B56-AF47-CD1219358692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3294F6A-0974-4B56-AF47-CD1219358692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
